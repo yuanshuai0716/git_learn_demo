@@ -6,4 +6,4 @@ new add..
 new new add...
 happy github
 last
-Creating a new branch is quik.
+Creating a new branch is quik AND simple.
