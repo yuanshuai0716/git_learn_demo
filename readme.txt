@@ -7,3 +7,4 @@ new new add...
 happy github
 last
 Creating a new branch is quik and simple.
+add merge
