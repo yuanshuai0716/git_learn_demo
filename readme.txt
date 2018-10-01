@@ -5,6 +5,7 @@ Git tracks changes of files.
 new add..
 new new add...
 happy github
-last
+last one
 Creating a new branch is quik and simple.
 add merge
+bugg
